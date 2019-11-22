@@ -1,5 +1,6 @@
 # zobskewed.github.io
 
-http://zobskewed.com
+[zobskewed.com](https://zobskewed.com)
 
-https://twitter.com/zobskewed
+[twitter.com/zobskewed](https://twitter.com/zobskewed)
+
