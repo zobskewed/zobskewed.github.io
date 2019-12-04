@@ -2,7 +2,9 @@
 
 [zobskewed.com](http://zobskewed.com)
 
-[twitter.com/zobskewed](https://twitter.com/zobskewed)
+[zobskewed.com/youtube](https://zobskewed.com/youtube)
+
+[zobskewed.com/twitter](https://zobskewed.com/twitter)
 
 [zobskewed@gmail.com](mailto:zobskewed@gmail.com)
 
