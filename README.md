@@ -2,8 +2,6 @@
 
 [zobskewed.com/twitter](http://zobskewed.com/twitter)
 
-*Email an old guy who has been in tech for over 30 years.*
-
 [zobskewed@gmail.com](mailto:zobskewed@gmail.com)
 
 ---
