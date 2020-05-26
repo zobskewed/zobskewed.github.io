@@ -1,5 +1,7 @@
 [zobskewed.com](http://zobskewed.com)
 
+[zobskewed.com/instagram](http://zobskewed.com/instagram)
+
 [zobskewed.com/twitter](http://zobskewed.com/twitter)
 
 [zobskewed@gmail.com](mailto:zobskewed@gmail.com)
