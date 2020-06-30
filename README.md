@@ -4,7 +4,6 @@ Photography, Technology, etc.
 
 <!--![colorful_trees_and_sky_small.jpg](colorful_trees_and_sky_small.jpg)-->
 <img src="colorful_trees_and_sky_small.jpg" width="500" />
-<br />
 
 Photography on Instagram [@zobskewed](http://zobskewed.com/instagram)
 
