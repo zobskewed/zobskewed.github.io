@@ -1,6 +1,6 @@
 [zobskewed](http://zobskewed.com)
 <br />
-Photography, Technology, etc.
+Photographer
 
 <!--![colorful_trees_and_sky_small.jpg](colorful_trees_and_sky_small.jpg)-->
 <img src="colorful_trees_and_sky_small.jpg" width="500" />
@@ -19,9 +19,7 @@ Once complete, I tend to post at least one, but up to three, to Instagram to obt
 
 [Shop](http://shop.zobskewed.com/) for select framed prints
 
-Photography on Instagram [@zobskewed](http://zobskewed.com/instagram)
-
-Technology on Twitter [@zobskewed](http://zobskewed.com/twitter)
+Photography on Instagram [@zobskewed](http://instagram.zobskewed.com/)
 
 Email [zobskewed@gmail.com](mailto:zobskewed@gmail.com)
 
