@@ -5,7 +5,9 @@ Photographer
 <!--![colorful_trees_and_sky_small.jpg](colorful_trees_and_sky_small.jpg)-->
 <img src="colorful_trees_and_sky_small.jpg" width="500" />
 
-[Shop](http://shop.zobskewed.com/) for select framed prints - if you see something on Instagram that is not available in the shop, please contact me.
+[Shop](http://shop.zobskewed.com/) for select framed prints
+<br />
+If you see something on Instagram that you wish to purchase, and it is not available in the shop, please contact me.
 
 <hr />
 
