@@ -15,7 +15,7 @@ I currently use a Leica M10-P (because it is one of the ultimate minimalistic ca
 
 I'm partial to small prime lenses - 28mm, 35mm, and 50mm. I work in color and black & white. I almost always shoot straight to uncompressed JPG and very rarely edit a DNG/RAW file. After the photo is taken, I (almost immediately) transfer the best to my iPhone, perform minimal edits in Darkroom (or similar app) to adjust contrast or highlights or shadows, maybe add some gentle vignetting or noise. If it takes longer than 30 seconds I'm overthinking it. For me, photography needs to be instant and with as little friction as possible. It should be like an improvised melody - you get very little time to choose the next note - it just has to happen - and once it does, it's gone - you move on to the next. Imperfection is perfectly acceptable, in fact, desired - that's where the magic happens.
 
-Once complete, I tend to post at least one, but up to three, to Instagram to obtain my social media approval. I try not to think that 100 likes really means ~8 billion people don't care at all about my art. :-) In a few cases, a truly stellar shot will be added to my shop so others can enjoy a framed print of the work.
+Once complete, I tend to post at least one to Instagram to obtain my social media approval. I try not to think that 100 likes really means ~8 billion people don't care at all about my art. :-)
 
 <hr />
 
