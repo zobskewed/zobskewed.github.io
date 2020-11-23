@@ -5,10 +5,6 @@ Photographer
 <!--![colorful_trees_and_sky_small.jpg](colorful_trees_and_sky_small.jpg)-->
 <img src="colorful_trees_and_sky_small.jpg" width="500" />
 
-<b>[Shop for select framed prints](http://shop.zobskewed.com/)</b>
-<br />
-If you see something on Instagram that you wish to purchase, and it is not available in the shop, please contact me.
-
 <hr />
 
 <b>My Philosophy on Photography</b>
@@ -22,8 +18,6 @@ I'm partial to small prime lenses - 28mm, 35mm, and 50mm. I work in color and bl
 Once complete, I tend to post at least one, but up to three, to Instagram to obtain my social media approval. I try not to think that 100 likes really means ~8 billion people don't care at all about my art. :-) In a few cases, a truly stellar shot will be added to my shop so others can enjoy a framed print of the work.
 
 <hr />
-
-[Shop](http://shop.zobskewed.com/) for select framed prints
 
 Photography on Instagram [@zobskewed](http://instagram.zobskewed.com/)
 
