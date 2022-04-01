@@ -12,6 +12,8 @@ Email [zobskewed@gmail.com](mailto:zobskewed@gmail.com)
 
 This is a self-published book, available in paperback, from Amazon. It will be published in April 2022.
 
+First one to find the spelling error wins!
+
 Babbling on Twitter [@zobskewed](http://twitter.com/zobskewed)
 
 <hr />
