@@ -1,11 +1,23 @@
 [zobskewed](http://zobskewed.com)
 <br />
-Photographer
+Photographer / Author
+
+<hr />
+
+Email [zobskewed@gmail.com](mailto:zobskewed@gmail.com)
+
+<hr />
+
+<b>On Becoming the Person Your Team Needs You to Be: Standing Out and Leading in Tech and Beyond</b>
+
+This is a self-published book, available in paperback, from Amazon. It will be published in April 2022.
+
+Babbling on Twitter [@zobskewed](http://twitter.com/zobskewed)
+
+<hr />
 
 <!--![colorful_trees_and_sky_small.jpg](colorful_trees_and_sky_small.jpg)-->
 <img src="colorful_trees_and_sky_small.jpg" width="500" />
-
-<hr />
 
 <b>My Philosophy on Photography</b>
 
@@ -19,11 +31,7 @@ I'm partial to small prime lenses - 35mm and 50mm. I work in color and black & w
 
 Once complete, I tend to post at least one to Instagram to obtain my social media approval. I try not to think that 100 likes really means ~8 billion people don't care at all about my art. :-)
 
-<hr />
-
 Photography on Instagram [@zobskewed](http://instagram.zobskewed.com/)
-
-Email [zobskewed@gmail.com](mailto:zobskewed@gmail.com)
 
 <!--
 [Visit Amazon](https://www.amazon.com/?&_encoding=UTF8&tag=zobskewed-20&linkCode=ur2&linkId=89d99b8bc966b26db86a1e808a43a895&camp=1789&creative=9325)
