@@ -10,7 +10,9 @@ Email [zobskewed@gmail.com](mailto:zobskewed@gmail.com)
 
 <b>On Becoming the Person Your Team Needs You to Be: Standing Out and Leading in Tech and Beyond</b>
 
-This is a self-published book, available in paperback. It was published in April, 2022. [Buy on Amazon](http://www.amazon.com/dp/B09WQDWTZJ/ref=nosim?tag=zobskewed01-20)
+This is a self-published book, available in paperback. It was published in April, 2022. 
+
+[Click for More Information or to Buy via Amazon](http://www.amazon.com/dp/B09WQDWTZJ/ref=nosim?tag=zobskewed01-20)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/31q-MSswEoL._SX331_BO1,204,203,200_.jpg" height="300" />
 
