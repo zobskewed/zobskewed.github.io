@@ -1,6 +1,5 @@
-[zobskewed](http://zobskewed.com)
-<br />
-Photographer / Author
+Joe Zobkiw<br />
+Developer / Author / Musician / Photographer
 
 <hr />
 
