@@ -14,7 +14,7 @@ This is a self-published book, available in paperback, first available in April,
 
 [Click for More Information or to Buy via Amazon](http://www.amazon.com/dp/B09WQDWTZJ/ref=nosim?tag=zobskewed01-20)
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/31q-MSswEoL._SX331_BO1,204,203,200_.jpg" height="300" />
+[<img src="https://images-na.ssl-images-amazon.com/images/I/31q-MSswEoL._SX331_BO1,204,203,200_.jpg" height="300" />](http://www.amazon.com/dp/B09WQDWTZJ/ref=nosim?tag=zobskewed01-20)
 
 First one to find the spelling error wins!
 
