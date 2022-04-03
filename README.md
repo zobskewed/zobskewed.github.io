@@ -9,7 +9,7 @@ Email [zobskewed@gmail.com](mailto:zobskewed@gmail.com)
 
 <b>On Becoming the Person Your Team Needs You to Be: Standing Out and Leading in Tech and Beyond</b>
 
-This is a self-published book, available in paperback, first available in April 2022. 
+Common sense (and some not so common sense) methods, tips, and personal learnings to consider and use when writing code and going about your day to day work and career. The book also discusses leadership and interactions between teammates and others in your organization with the goal being to help you help your team, while also helping yourself, improve professional relationships.
 
 [Click for More Information or to Buy via Amazon](http://www.amazon.com/dp/B09WQDWTZJ/ref=nosim?tag=zobskewed01-20)
 
