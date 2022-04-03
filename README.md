@@ -27,8 +27,21 @@ You can read my first book, <b>A Fragment of Your Imagination</b> online for fre
 
 My latest album, <b>Summit^2</b>, featuring David Mash, is available now on all major streaming services. Improvised electronic ambient perfect to work or relax by...
 
-[iTunes](https://music.apple.com/us/album/summit2/1615083350)<br />
-[Spotify](https://open.spotify.com/album/5wYqp8oDCjkI7z5cFslk8e?si=ToshM-RJRgWnLqMXeXh9Ig)
+[Apple Music](https://music.apple.com/us/album/summit2/1615083350)<br />
+[Spotify](https://open.spotify.com/album/5wYqp8oDCjkI7z5cFslk8e?si=ToshM-RJRgWnLqMXeXh9Ig)<br />
+[YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_nfzBBfwxQME9dPB8Np5TswYTwJXe7CU4o)
+
+Other albums also available include:
+
+<b>Variations on Themes by Zobkiw</b><br />
+[Apple Music](https://music.apple.com/us/album/variations-on-themes-by-zobkiw/1535195697)<br />
+[Spotify](https://open.spotify.com/album/0lffqUeWzHNEp5jtRaPAnY?si=0NJoN4yFRyig8u_r-jiOBw)<br />
+[YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_nNpn7ezAC-NA-ecx_uyx2PHwW2WEImCu0)
+
+<b>Variations II</b><br />
+[Apple Music](https://music.apple.com/us/album/variations-ii/1561894234)<br />
+[Spotify](https://open.spotify.com/album/4NimGgFHVTq7fmsAGfwIaO?si=7d_8N3LgS3OJbSuPXxnNGg)<br />
+[YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_k9OztJnfOq2_egyS5o9yv7ZWdJw14sf4o)
 
 <hr />
 
