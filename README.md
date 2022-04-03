@@ -31,7 +31,7 @@ My latest album, <b>Summit^2</b>, featuring David Mash, is available now on all 
 [Spotify](https://open.spotify.com/album/5wYqp8oDCjkI7z5cFslk8e?si=ToshM-RJRgWnLqMXeXh9Ig)<br />
 [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_nfzBBfwxQME9dPB8Np5TswYTwJXe7CU4o)
 
-Other albums also available include:
+Other chill electronic instrumental albums include:
 
 <b>Variations on Themes by Zobkiw</b><br />
 [Apple Music](https://music.apple.com/us/album/variations-on-themes-by-zobkiw/1535195697)<br />
