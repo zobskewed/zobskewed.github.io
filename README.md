@@ -43,6 +43,8 @@ Other chill electronic instrumental albums include:
 [Spotify](https://open.spotify.com/album/4NimGgFHVTq7fmsAGfwIaO?si=7d_8N3LgS3OJbSuPXxnNGg)<br />
 [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_k9OztJnfOq2_egyS5o9yv7ZWdJw14sf4o)
 
+I'm also on SoundCloud @ [aheadinclouds](https://soundcloud.com/aheadinclouds) featuring calming improvised ambient vignettes.
+
 <hr />
 
 <!--![colorful_trees_and_sky_small.jpg](colorful_trees_and_sky_small.jpg)-->
