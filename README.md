@@ -23,7 +23,7 @@ You can read my first book, <b>A Fragment of Your Imagination</b> online for fre
 
 <hr />
 
-<img src="https://secureservercdn.net/192.169.221.188/nbg.4c5.myftpupload.com/wp-content/uploads/2022/03/summit_cover-Final-1024x1024.jpg" height="300" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/13/96/93139609-61ae-5c51-0401-48b940f8681e/198003392274.jpg/600x600bf-60.jpg" height="300" />
 
 My latest album, <b>Summit^2</b>, featuring David Mash, is available now on all major streaming services. Improvised electronic ambient perfect to work or relax by...
 
