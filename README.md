@@ -19,7 +19,7 @@ First one to find the spelling error wins!
 
 Babbling on Twitter [@zobskewed](http://twitter.com/zobskewed)
 
-You can read my first book, <b>A Fragment of Your Imagination</b> online for free [[PDF]](https://vintageapple.org/macprogramming/pdf/A_Fragment_Of_Your_Imagination_1995.pdf)
+You can read my first book, <b>A Fragment of Your Imagination</b> online for free [[PDF]](https://vintageapple.org/macprogramming/pdf/A_Fragment_Of_Your_Imagination_1995.pdf) - the CD contents with all source code is also available [here](https://github.com/zobkiw/fragment)
 
 <hr />
 
