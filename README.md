@@ -45,7 +45,7 @@ Other chill electronic instrumental albums include:
 
 I'm also on SoundCloud @ [aheadinclouds](https://soundcloud.com/aheadinclouds) featuring calming improvised ambient vignettes.
 
-Lastly, <b>Blip Fool</b> - older, electronic, "jam band" music featuring David Mash on guitar...</br>
+Lastly, <b>Blip Fool</b> - older, electronic, "jam band" music featuring David Mash on guitar...<br />
 [Apple Music](https://music.apple.com/us/album/ep/255479215)<br />
 [Spotify](https://open.spotify.com/album/0vw0igyaeSyuyYZ9IYZwps?si=jgJhv0p6TmmxF8I1hRPG8g)<br />
 [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_m2jGO-hk9l86e1eq-wGQvsg4WBHuVsuQc&si=fKCiSHv89avuE-Ne)
