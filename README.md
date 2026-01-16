@@ -13,9 +13,9 @@ Common sense (and some not so common sense) methods, tips, and personal learning
 
 [Click for More Information or to Buy via Amazon](http://www.amazon.com/dp/B09WQDWTZJ/ref=nosim?tag=zobskewed01-20)
 
-You can download a free [PDF](https://github.com/zobskewed/zobskewed.github.io/raw/master/On%20becoming%20the%20person%20your%20team%20needs%20you%20to%20be.pdf) version if you prefer.
-
 [<img src="https://images-na.ssl-images-amazon.com/images/I/31q-MSswEoL._SX331_BO1,204,203,200_.jpg" height="300" />](http://www.amazon.com/dp/B09WQDWTZJ/ref=nosim?tag=zobskewed01-20)
+
+You can download a free [PDF](https://github.com/zobskewed/zobskewed.github.io/raw/master/On%20becoming%20the%20person%20your%20team%20needs%20you%20to%20be.pdf) version if you prefer.
 
 First one to find the spelling error wins!
 
