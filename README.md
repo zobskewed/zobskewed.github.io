@@ -13,13 +13,15 @@ Common sense (and some not so common sense) methods, tips, and personal learning
 
 [Click for More Information or to Buy via Amazon](http://www.amazon.com/dp/B09WQDWTZJ/ref=nosim?tag=zobskewed01-20)
 
+You can download a free [PDF](https://github.com/zobskewed/zobskewed.github.io/raw/master/On%20becoming%20the%20person%20your%20team%20needs%20you%20to%20be.pdf) version if you prefer.
+
 [<img src="https://images-na.ssl-images-amazon.com/images/I/31q-MSswEoL._SX331_BO1,204,203,200_.jpg" height="300" />](http://www.amazon.com/dp/B09WQDWTZJ/ref=nosim?tag=zobskewed01-20)
 
 First one to find the spelling error wins!
 
 Babbling on Twitter [@zobskewed](http://twitter.com/zobskewed)
 
-You can read my first book, <b>A Fragment of Your Imagination</b> online for free [[PDF]](https://vintageapple.org/macprogramming/pdf/A_Fragment_Of_Your_Imagination_1995.pdf) - the CD contents with all source code is also available [here](https://github.com/zobkiw/fragment)
+You can read my first book, <b>A Fragment of Your Imagination</b> online for free in [PDF](https://vintageapple.org/macprogramming/pdf/A_Fragment_Of_Your_Imagination_1995.pdf) form - the CD contents with all source code is also available [here](https://github.com/zobkiw/fragment)
 
 <hr />
 
